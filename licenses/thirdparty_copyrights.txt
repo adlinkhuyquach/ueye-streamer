@@ -1,0 +1,28 @@
+=====================
+COPYRIGHTS FOR ffmpeg
+=====================
+
+
+﻿See source code.
+
+
+
+======================
+COPYRIGHTS FOR live555
+======================
+
+
+Copyright (c) 1996-2011 Live Networks, Inc.  All rights reserved.
+
+
+
+==================
+COPYRIGHTS FOR qt5
+==================
+
+
+The Qt Toolkit is Copyright (C) 2015 The Qt Company Ltd.
+Contact: http://www.qt.io/licensing/
+
+
+

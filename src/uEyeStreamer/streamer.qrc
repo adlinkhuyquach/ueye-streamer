@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/icons/captureStart.png</file>
+        <file>res/icons/captureStop.png</file>
+        <file>res/icons/streamRemove.png</file>
+        <file>res/icons/information.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,19 @@
+IDS Imaging Development Systems GmbH developed uEye_streamer.exe and ueye_stream.dll.
+
+The uEye_streamer.exe is linked dynamically with Qt 5.6 licensed under the
+GNU Lesser General Public License, Version 3.0.
+IDS Imaging Development Systems GmbH hereby permits reverse engineering of the
+Software for the purpose of testing and debugging modifications of Qt 5.6,
+which the Software is linked with.
+
+The ueye_stream.dll is linked dynamically with FFmpeg licensed under the
+GNU Lesser General Public License, Version 2.1.
+IDS Imaging Development Systems GmbH hereby permits reverse engineering of the
+Software for the purpose of testing and debugging modifications of FFmpeg
+which the Software is linked with.
+
+The ueye_stream.dll is linked dynamically with LIVE555 licensed under the
+GNU Lesser General Public License, Version 2.1.
+IDS Imaging Development Systems GmbH hereby permits reverse engineering of the
+Software for the purpose of testing and debugging modifications of LIVE555 
+which the Software is linked with.
